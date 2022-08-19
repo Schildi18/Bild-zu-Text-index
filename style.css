@@ -1,0 +1,266 @@
+<<<<<<< HEAD
+.header{
+    /*with 1440 Height 100. Collour BCBCBC*/
+    background-color: #BCBCBC;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  /*Font scice 64. With=429, Height=73. x=506, Y14*/
+    font-size: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 14px;
+    margin-bottom: 0;
+
+
+}
+
+.div-1c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 210px;
+    left: 290px;
+    transform: scale(1.25);
+}
+
+.div-1{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 120px;
+    left: 180px;
+    font-size: 40px;
+    
+}
+
+.div-2c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 150px;
+    left: 1150px;
+    transform: scale(0.7);
+}
+
+.div-2{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 120px;
+    left: 1150px;
+    font-size: 40px;
+    
+}
+
+.div-3c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 410px;
+    left: 167px;
+    transform: scale(0.7);
+}
+
+.div-3{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 380px;
+    left: 180px;
+    font-size: 40px;
+    
+}
+
+.div-4c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 410px;
+    left: 1150px;
+    transform: scale(0.7);
+}
+
+.div-4{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 380px;
+    left: 1150px;
+    font-size: 40px;
+    
+}
+
+.div-5c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 700px;
+    left: 167px;
+    transform: scale(0.7);
+}
+
+.div-5{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 670px;
+    left: 180px;
+    font-size: 40px;
+    
+}
+
+.div-6c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 700px;
+    left: 1150px;
+    transform: scale(0.7);
+}
+
+.div-6{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 670px;
+    left: 1150px;
+    font-size: 40px;
+    
+=======
+.header{
+    /*with 1440 Height 100. Collour BCBCBC*/
+    background-color: #BCBCBC;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  /*Font scice 64. With=429, Height=73. x=506, Y14*/
+    font-size: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 14px;
+    margin-bottom: 0;
+
+
+}
+
+.div-1c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 150px;
+    left: 167px;
+    transform: scale(0.7);
+}
+
+.div-1{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 120px;
+    left: 180px;
+    font-size: 40px;
+    
+}
+
+.div-2c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 150px;
+    left: 1150px;
+    transform: scale(0.7);
+}
+
+.div-2{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 120px;
+    left: 1150px;
+    font-size: 40px;
+    
+}
+
+.div-3c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 410px;
+    left: 167px;
+    transform: scale(0.7);
+}
+
+.div-3{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 380px;
+    left: 180px;
+    font-size: 40px;
+    
+}
+
+.div-4c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 410px;
+    left: 1150px;
+    transform: scale(0.7);
+}
+
+.div-4{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 380px;
+    left: 1150px;
+    font-size: 40px;
+    
+}
+
+.div-5c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 700px;
+    left: 167px;
+    transform: scale(0.7);
+}
+
+.div-5{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 670px;
+    left: 180px;
+    font-size: 40px;
+    
+}
+
+.div-6c1{
+    /*Move to x=167 px and y=198 px*/
+    position: absolute;
+    top: 700px;
+    left: 1150px;
+    transform: scale(0.7);
+}
+
+.div-6{
+    color: #000000;
+    /*Align above div-1c1*/
+    position: absolute;
+    top: 670px;
+    left: 1150px;
+    font-size: 40px;
+    
+>>>>>>> 22b5f4db6a69ce89e35fb6034ef0dfb2fa9862ee
+}
